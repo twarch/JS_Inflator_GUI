@@ -1,0 +1,44 @@
+Background size: 1300x1300
+
+--- Placement ---
+
+------ IN ---------------------------------
+label dB in (center): x: 144, y: 242
+fader knob IN (center): x: 144, y: 700
+-------------------------------------------
+
+------ OUT --------------------------------
+label dB out (center): x: 1156, y: 242
+fader knob OUT (center): x: 1156, y: 420
+-------------------------------------------
+
+------ screen elements --------------------
+os label (center): x: 459, y: 194
+os num (center): x: 510, y: 194
+os lin (center): x: 666, y: 194
+info (center): x: 846, y: 194
+meter in (center): x: 600, y: 462
+label in (center): x: 600, Y: 664
+meter fx (center): x: 650, y: 462
+label fx (center): x: 650, y: 664
+meter out (center): x: 800, y: 462
+label out (center): x: 800, y: 664
+
+-------------------------------------------
+
+------ Push btns --------------------------
+on btn (center): x: 522, y: 833
+split btn (center): x: 700, y: 833
+clip btn (center): x: 878, y: 833
+-------------------------------------------
+
+
+------ Rotary knobs -----------------------
+effect knob: x: 550, y: 1120
+curve knob: x: 850, y: 1120
+-------------------------------------------
+
+------ footer -----------------------------
+tooltip center: x: 700, y: 1272
+resize: x: 1376,y: 1279
+-------------------------------------------
