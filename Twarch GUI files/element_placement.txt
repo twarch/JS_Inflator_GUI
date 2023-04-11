@@ -1,3 +1,24 @@
+Header background: #282828
+Inflator title: #8A8A8A
+preset nav: #6E6E6E
+preset name: #BABABA
+
+Main blue: #6A9CC2
+Main grey: #9A9A9A
+
+middle panel blue: #5F8FB1
+middle panel grey: #8B8B8B
+
+Faders IN/OUT labels: #2E2E2E
+Faders dB values: #B4B4B4
+
+Screen white (on) font: #CECFD0
+Screen dark (off) font: #394955
+
+Buttons On/Split/Clip: #626262
+
+Rotary values: #2E2E2E
+
 Background size: 1300x1300
 
 --- Placement ---
